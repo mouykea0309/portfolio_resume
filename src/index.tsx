@@ -9,7 +9,7 @@ import Work from "./components/Work";
 import Blog from "./components/Blog";
 import Contact from "./components/Contact";
 import WorkDetail from "./components/WorkDetail";
- const root = document.getElementById("root")!;
+ const root = document.getElementById("root")!; 
 render(
   () => (
     <Router root={App}>
